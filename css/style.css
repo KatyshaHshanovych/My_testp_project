@@ -1,3 +1,7 @@
+.block-content {
+  margin-top: 68px;
+}
+
 .block-content-page {
   font-family: Arial, Helvetica, sans-serif;
   width: 1503px;
@@ -12,6 +16,7 @@
   width: 100%;
   margin: 0 auto;
   z-index: 1;
+  margin-top: -68px;
 }
 
 .header-block-item {
@@ -477,8 +482,13 @@
   margin-right: -280px;
 }
 
+.block-rules-main {
+  margin-top: 68px;
+}
+
 .block-contact {
   margin-bottom: 400px;
+  margin-top: 68px;
 }
 .block-contact__stayInTouch {
   margin-left: 277px;
@@ -644,12 +654,13 @@
 }
 
 .block-allPosts {
-  width: 980px;
+  width: 945px;
   height: 80px;
   display: flex;
   justify-content: space-between;
   align-items: center;
   margin: 0 auto;
+  margin-top: 68px;
 }
 .block-allPosts__icon {
   width: 19px;
@@ -912,6 +923,7 @@
 .block-main-article {
   width: 940px;
   margin: 0 auto;
+  margin-top: 68px;
 }
 .block-main-article__pageArticle {
   margin: 0 auto;

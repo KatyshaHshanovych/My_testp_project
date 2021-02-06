@@ -45,7 +45,7 @@
                         </div>
                     </div>
                     <div class="block-main-blog__iconShare">
-                        <a class="block-main-blog__iconDot"href="#">
+                        <a class="block-main-blog__iconDot" href="#">
                             <img class="block-main-blog__iconShareLeft" src="./img/ellipsis-v-solid.svg" alt="ellipsis">
                         </a>
                     </div>
@@ -108,12 +108,12 @@
                 </div>
                 <div class="block-main-blog__textBlog">
                     <div class="block-main-blog__blockTitle">
-                        <a class="block-main-blog__nameTitle" href="#">
+                        <a class="block-main-blog__nameTitle" href="article.php">
                             5 Fishing tour companies to know about
                         </a>
                     </div>
                     <div class="block-main-blog__article">
-                        <a class="block-main-blog__textArticle" href="#">
+                        <a class="block-main-blog__textArticle" href="article.php">
                             Create a blog post subtitle that summarizes your post<br> in a few short, punchy sentences and entices your<br> audience to continue reading. Wel...
                         </a>
                     </div>
@@ -167,12 +167,12 @@
                 </div>
                 <div class="block-main-blog__textBlog">
                     <div class="block-main-blog__blockTitle">
-                        <a class="block-main-blog__nameTitle" href="#">
+                        <a class="block-main-blog__nameTitle" href="article.php">
                             Best destinations for fishing trips
                         </a>
                     </div>
                     <div class="block-main-blog__article">
-                        <a class="block-main-blog__textArticle" href="#">
+                        <a class="block-main-blog__textArticle" href="article.php">
                             Create a blog post subtitle that summarizes your post<br> in a few short, punchy sentences and entices your<br> audience to continue reading. Wel...
                         </a>
                     </div>
@@ -223,12 +223,12 @@
                 </div>
                 <div class="block-main-blog__textBlog">
                     <div class="block-main-blog__blockTitle">
-                        <a class="block-main-blog__nameTitle" href="#">
+                        <a class="block-main-blog__nameTitle" href="article.php">
                             Halibut season is here
                         </a>
                     </div>
                     <div class="block-main-blog__article">
-                        <a class="block-main-blog__textArticle" href="#">
+                        <a class="block-main-blog__textArticle" href="article.php">
                             Create a blog post subtitle that summarizes your post<br> in a few short, punchy sentences and entices your<br> audience to continue reading. Wel...
                         </a>
                     </div>
@@ -282,12 +282,12 @@
                 </div>
                 <div class="block-main-blog__textBlog">
                     <div class="block-main-blog__blockTitle">
-                        <a class="block-main-blog__nameTitle" href="#">
+                        <a class="block-main-blog__nameTitle" href="article.php">
                             Why cooler water temperatures matter
                         </a>
                     </div>
                     <div class="block-main-blog__article">
-                        <a class="block-main-blog__textArticle" href="#">
+                        <a class="block-main-blog__textArticle" href="article.php">
                             Create a blog post subtitle that summarizes your post<br> in a few short, punchy sentences and entices your<br> audience to continue reading. Wel...
                         </a>
                     </div>
@@ -341,12 +341,12 @@
                 </div>
                 <div class="block-main-blog__textBlog">
                     <div class="block-main-blog__blockTitle">
-                        <a class="block-main-blog__nameTitle" href="#">
+                        <a class="block-main-blog__nameTitle" href="article.php">
                             Fly fishing made easy
                         </a>
                     </div>
                     <div class="block-main-blog__article">
-                        <a class="block-main-blog__textArticle" href="#">
+                        <a class="block-main-blog__textArticle" href="article.php">
                             Create a blog post subtitle that summarizes your post<br> in a few short, punchy sentences and entices your<br> audience to continue reading. Wel...
                         </a>
                     </div>
