@@ -18,13 +18,27 @@
   margin-top: -68px;
 }
 
+.block-burger {
+  height: 50px;
+  display: none;
+}
+
+.block-hamburger {
+  position: fixed;
+  display: flex;
+  background: red;
+  padding: 10px 0;
+  justify-content: center;
+  width: 100%;
+}
+
 .block-burger__menuBurger {
   position: absolute;
   width: 40px;
   height: 23px;
-  right: 50%;
+  right: 46%;
   z-index: 2;
-  margin-top: -48px;
+  margin-top: 10px;
 }
 
 .block-burger__menuBurger span, .block-burger__menuBurger:after, .block-burger__menuBurger:before {
@@ -1162,6 +1176,10 @@
 }
 .block-main-article__LogInText {
   color: #A6824A;
+}
+
+.block-burger, .block-hamburger {
+  display: none;
 }
 
 /*# sourceMappingURL=style.css.map */

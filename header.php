@@ -1,4 +1,14 @@
 <div class="block-header">
+    <div class="block-burger">
+        <div class="block-burger__menuBurger">
+            <span></span>
+        </div>
+    </div>
+    <?php if(false): ?>
+        <div class="block-hamburger">
+            <img width="32" src="./img/hamburger.png" alt="hamburger">
+        </div>
+    <?php endif; ?>
     <div class="header-block-item">
         <div class="header-size-logo">
             <img class="header-size-logo__logoImg" src="./img/LOGO.JPG.png">
@@ -41,11 +51,4 @@
             </div>
         </div>
     </div>
-    </div>
-    <div class="block-burger">
-        <div class="block-burger__menuBurger">
-            <span></span>
-        </div
-    </div>
-</div>
 </div>

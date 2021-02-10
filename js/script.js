@@ -94,6 +94,11 @@ $(document).ready(function() {
     $(this).siblings('.block-rules-second__arrow').toggleClass('block-rotate-180');
 }).on('click', '.block-burger__menuBurger', function () {
     $('.block-burger__menuBurger').toggleClass('open-menu');
+}).on('click', '.block-burger__menuBurger', function () {
+    $('.header-block-item').slideToggle( "slow", function() {
+        if ($(this).is(':visible'))
+            $(this).css('display','flex');
+    });
 });
 
 
