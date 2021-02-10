@@ -8,6 +8,7 @@
     <title>Off the Hook</title>
     <link rel="stylesheet" href="css/base.css">
     <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="./css/media_425.css">
     <script src="js/jquery-3.5.1.min.js"></script>
     <script src="js/slick.min.js"></script>
     <script src="js/script.js"></script>

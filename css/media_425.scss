@@ -1,0 +1,130 @@
+@media screen and (max-width: 425px) {
+
+  .block-header {
+    display: block;
+    position: absolute;
+    top: 50px;
+    left: 0;
+    background: red;
+    box-shadow: #ccc;
+    width: 100%;
+    box-shadow: 0 4px 2px -2px rgba(36, 36, 36, 0.17);
+  }
+
+  .header-block-item {
+    width: 425px;
+  }
+  .block-content-page {
+    width: 425px;
+  }
+
+  .block-contact__stayInTouch {
+    width: 208px;
+    margin-left: 21px;
+    height: 211px;
+  }
+
+  .block-contact__textForThisBlockContact {
+    padding-left: 19px;
+    padding-top: 23px;
+  }
+
+  .block-contact__titleForLastBlock {
+    font-size: 21px;
+  }
+
+  .block-contact__textAboutBlockContact {
+    font-size: 12px;
+    margin-top: 10px;
+  }
+
+  .block-contact__fishImg {
+    width: 100%;
+    height: 330px;
+  }
+
+  .block-contact__formBlock2 {
+    margin-top: -298px;
+    position: unset;
+    margin-left: 33px;
+  }
+
+  .block-contact__formInputBlack {
+    font-size: 12px;
+    width: 185px;
+    height: 35px;
+    padding: 12px;
+    margin: 3px 0px;
+    background: #464646;
+    color: white;
+  }
+
+  .block-contact__formBigInput {
+    font-size: 12px;
+    width: 185px;
+    height: 65px;
+    padding: 12px;
+    margin: 3px 0px;
+    background: #464646;
+    color: white;
+  }
+
+  .block-contact__textForButton1 {
+    font-size: 15px;
+  }
+
+  .block-contact__buttonLastBlock {
+    margin-left: -75px;
+  }
+
+  .block-footer {
+    width: 425px;
+  }
+
+  .block-footer-first__findUs {
+    font-size: 18px;
+    margin-left: 14px;
+  }
+
+  .block-footer-first__icon {
+    //padding-right: 10px;
+    width: 15px;
+    margin-right: 20px;
+  }
+
+  .block-footer-first__linkFishingForum {
+    font-size: 14px;
+  }
+
+  .block-footer-first__followUS {
+    padding-right: 0;
+  }
+
+  .block-contact__lastImage {
+    width: 425px;
+  }
+
+  .block-footer-first__findUsText {
+    padding-left: 0;
+  }
+
+  .block-footer-first__allIcons {
+    padding-left: 23px;
+  }
+
+  .block-footer-first__icons {
+    //margin-left: 0;
+  }
+
+  .block-footer-third__left {
+    padding-left: 0;
+  }
+
+  .block-footer-third__right {
+    padding-right: 0;
+  }
+
+  .block-burger__menuBurger {
+    right: 46%;
+  }
+}

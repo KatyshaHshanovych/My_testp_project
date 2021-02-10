@@ -14,9 +14,58 @@
   background: white;
   display: flex;
   width: 100%;
-  margin: 0 auto;
   z-index: 1;
   margin-top: -68px;
+}
+
+.block-burger__menuBurger {
+  position: absolute;
+  width: 40px;
+  height: 23px;
+  right: 50%;
+  z-index: 2;
+  margin-top: -48px;
+}
+
+.block-burger__menuBurger span, .block-burger__menuBurger:after, .block-burger__menuBurger:before {
+  height: 5px;
+  width: 100%;
+  position: absolute;
+  margin: 0 auto;
+  background: black;
+}
+
+.block-burger__menuBurger span {
+  top: 21px;
+}
+
+.block-burger__menuBurger:after, .block-burger__menuBurger:before {
+  content: "";
+}
+
+.block-burger__menuBurger:after {
+  bottom: 5px;
+}
+
+.block-burger__menuBurger:before {
+  top: 5px;
+}
+
+.block-burger__menuBurger.open-menu span {
+  opacity: 0;
+  transition: 0.5s;
+}
+
+.block-burger__menuBurger.open-menu:before {
+  transform: rotate(40deg);
+  top: 9px;
+  transition: 0.4s;
+}
+
+.block-burger__menuBurger.open-menu:after {
+  transform: rotate(-40deg);
+  bottom: 9px;
+  transition: 0.4s;
 }
 
 .header-block-item {

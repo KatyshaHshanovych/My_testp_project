@@ -41,4 +41,11 @@
             </div>
         </div>
     </div>
+    </div>
+    <div class="block-burger">
+        <div class="block-burger__menuBurger">
+            <span></span>
+        </div
+    </div>
+</div>
 </div>

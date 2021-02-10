@@ -92,6 +92,8 @@ $(document).ready(function() {
 }).on('click','.block-rules-second__arrow,.block-rules-second__question', function () {
     $(this).siblings('.block-rules-second__info').slideToggle("slow");
     $(this).siblings('.block-rules-second__arrow').toggleClass('block-rotate-180');
-})
+}).on('click', '.block-burger__menuBurger', function () {
+    $('.block-burger__menuBurger').toggleClass('open-menu');
+});
 
 
